@@ -99,7 +99,7 @@ void Developers();
 
 };
 
-class Browse_linkedin{
+class Browse_Linkedin{
 public:
 void  learing();
 void  Jobs();
@@ -110,7 +110,7 @@ void Products();
 
 };
 
-class Business_solutions{
+class Business_Solutions{
 public:
 void Talent();
 void Marketing():
