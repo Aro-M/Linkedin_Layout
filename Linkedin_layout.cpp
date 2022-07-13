@@ -71,7 +71,7 @@ void starting_a_job();
 };
 
 
-class   Suggested_searches{
+class  Suggested_searches{
 public:
 void Engineering();
 void Business_Development();
